@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning: **Rust, WASM, and Cloud computing**
 
-💬 Let's talk about: **react, vue, ruby on rails**
+💬 Let's talk about: **React, data fetching patterns, and UI frameworks**
 
 📫 Get in touch with me: **alexmatasoftware@gmail.com**
 
