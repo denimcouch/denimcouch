@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alex Mata</h1>
-<h3 align="center">I'm a passionate software engineer based in Houston, Texas</h3>
+<h1 align="left">Hiya 👋🏽, I'm Alex Mata</h1>
+<h3 align="left">I'm a passionate software engineer based in Houston, Texas</h3>
 
-- 🔭 Here's my current project: [DocBook](https://github.com/denimcouch/docbook)
+<p align="left">I specialize in frontend development and love improving the data pipelines and user experiences. I got into software development to help make the world and web a better place for everyone. Well, and to eventually create my own game, but baby steps 😂. When I'm not coding, I'm probably looking for a karaoke to attend, cooking delicious meals, or creating tabletop roleplaying game adventures.</p>
 
-- 🌱 I’m currently learning: **Rust, WASM, and Cloud computing**
+🔭 Here's my current project: [DocBook](https://github.com/denimcouch/docbook)
 
-- 💬 Let's talk about: **react, vue, ruby on rails**
+🌱 I’m currently learning: **Rust, WASM, and Cloud computing**
 
-- 📫 Get in touch with me: **alexmatasoftware@gmail.com**
+💬 Let's talk about: **react, vue, ruby on rails**
 
-- ⚡ Fun fact: **I love tabletop board games!**
+📫 Get in touch with me: **alexmatasoftware@gmail.com**
+
+⚡ Fun fact: **I love tabletop board games!**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
