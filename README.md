@@ -1,7 +1,7 @@
 <h1 align="left">Hiya 👋🏽, I'm Alex Mata</h1>
-<h3 align="left">I'm a passionate software engineer based in Houston, Texas</h3>
+<h3 align="left">I'm a daydreamer based in Houston, Texas</h3>
 
-<p align="left">I specialize in frontend development and love improving the data pipelines and user experiences. I got into software development to help make the world and web a better place for everyone. Well, and to eventually create my own game, but baby steps 😂. When I'm not coding, I'm probably looking for a karaoke to attend, cooking delicious meals, or creating tabletop roleplaying game adventures.</p>
+<p align="left">I specialize in frontend development. I got into software development to help make the web a better place for everyone. Well, and to eventually create my own game, but baby steps 😂. When I'm not coding, I'm looking for a karaoke to attend, cooking, or creating games.</p>
 
 🔭 Here's my current project: [DocBook](https://github.com/denimcouch/docbook)
 
