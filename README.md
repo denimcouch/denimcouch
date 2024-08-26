@@ -5,13 +5,13 @@
 
 🔭 Here's my current project: [DocBook](https://github.com/denimcouch/docbook)
 
-🌱 I’m currently learning: **Rust, WASM, and Cloud computing**
+🌱 I’m currently learning: **Gentleness, Go, and Procreate**
 
-💬 Let's talk about: **React, data fetching patterns, and UI frameworks**
+💬 Let's talk about: **Music, type safety, and video games**
 
 📫 Get in touch with me: **alexmatasoftware@gmail.com**
 
-⚡ Fun fact: **I love tabletop board games!**
+⚡ Fun fact: **My favorite video game series is Final Fantasy!**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
